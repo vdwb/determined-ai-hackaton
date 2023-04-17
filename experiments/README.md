@@ -298,7 +298,7 @@ environment:
 
 ## Version 2
 ### const.yaml
-The file const.yaml was used to define the configuration for running the model
+The file const.yaml was used to define the configuration for running the model. The configuration hyperparamers are the result of the adaptive ASHA from version 1
 ```code
 name: boosted_trees_estimator_const_truck_v2
 data:
