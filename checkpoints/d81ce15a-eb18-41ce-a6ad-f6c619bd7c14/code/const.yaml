@@ -1,0 +1,23 @@
+name: boosted_trees_estimator_const_truck
+data:
+  truck_dataset:
+    train: "tensordataTrain.csv"
+    eval: "tensordataTest.csv"
+hyperparameters:
+  n_trees: 200
+  max_depth: 10
+  learning_rate: 0.01
+  l1_regularization: 0.01
+  l2_regularization: 0.01
+  min_node_weight: 0.1
+  global_batch_size: 8
+searcher:
+  name: single
+  metric: accuracy
+  max_length:
+    batches: 100
+  smaller_is_better: false
+entrypoint: model_def:BoostedTreesTrial
+scheduling_unit: 1
+environment:
+  image: "determinedai/environments:py-3.8-pytorch-1.12-tf-2.8-cpu-0.21.0"

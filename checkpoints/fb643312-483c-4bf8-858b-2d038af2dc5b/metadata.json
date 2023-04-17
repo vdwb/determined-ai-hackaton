@@ -1,0 +1,6 @@
+{
+  "determined_version": "0.19.10",
+  "steps_completed": 500,
+  "framework": "tensorflow-2.8.3",
+  "format": "saved_model"
+}

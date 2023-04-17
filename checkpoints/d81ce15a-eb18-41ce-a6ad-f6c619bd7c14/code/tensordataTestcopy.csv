@@ -1,0 +1,100 @@
+Market/Regular ;Origin_Location;Destination_Location;TRANSPORTATION_DISTANCE_IN_KM;expected_travelhours;vehicleType;customerID;supplierID;MaterialShipped;Driver_Name;ontime
+Regular;Lachitnagar, Kamrup, Assam;Ultapani, Kokrajhar, Assam;241.0;25;40 FT Flat Bed Multi-Axle 27MT - Trailer;LTLEXMUM40;58152;CENTERING BOLT;Rambabu Sahani;1
+Regular;Mugabala, Bangalore Rural, Karnataka;Kumbalagodu, Bangalore, Karnataka;45.5;4;40 FT 3XL Trailer 35MT;LTLEXMUM40;55559;PLANETARY AXLE;;0
+Regular;Sedarapet, India;Redhills, Chennai, Tamil Nadu, India;141.3164946163003;69;24 | 26 FT Taurus Open 21MT - HCV;LTLEXMUM40;999;ZB FLYWHEEL;;1
+Regular;Jamalpur, Gurgaon, Haryana;Pondur, Kanchipuram, Tamil Nadu;2400.0;100;32 FT Multi-Axle 14MT - HCV;DMREXCHEUX;67779;YOKE;JAMSHED;0
+Regular;Ramte Ram Road, Ghaziabad, Uttar Pradesh;Container Depot, Gautam Buddha Nagar, Uttar Pradesh;33.0;3;40 FT 3XL Trailer 35MT;LTLEXMUM40;66395;STATOR WDG. ASSY . FINAL;;0
+Regular;Kanchipuram, Tamil Nadu, India;Jharkhand, India;1330.092370299617;215;24 | 26 FT Taurus Open 21MT - HCV;LTLEXMUM40;999;CRANKSHAFT GEAR;;1
+Regular;Kalamboli Node, Raigarh, Maharashtra;Uran, Raigarh, Maharashtra;25.0;2;40 FT 3XL Trailer 35MT;LTLEXMUM40;63769;GRS STARTER;;0
+Regular;LUCAS TVS LTD-PONDY,PONDY,PONDICHERRY;LUCAS TVS LTD-PONDY,PONDY,PONDICHERRY;300.0;100;;LUTGCCHE06;SRTEXKOR96;AUTO PARTS;PERUMAL;1
+Regular;Thaikkattukara, Ernakulam, Kerala;Perumanur, Ernakulam, Kerala;25.0;2;40 FT 3XL Trailer 35MT;LTLEXMUM40;67603;SPARE PARTS AUTOMOBILE;;0
+Regular;Kalamboli Node, Raigarh, Maharashtra;Magthane, Mumbai, Maharashtra;35.0;3;40 FT 3XL Trailer 35MT;LTLEXMUM40;63769;LAMINATION PACK FOR REAR WIPER;;0
+Regular;Manali, Tiruvallur, Tamil Nadu;Sri City SEZ , Chittoor, Andhra Pradesh;67.4;6;40 FT 3XL Trailer 35MT;LTLEXMUM40;60901;FXUWB-LID COVER;;0
+Regular;Sedarapet, India;Kothamangalam, Kerala, India;402.215066548892;64;28 FT Open Body 25MT;LTLEXMUM40;999;SPARE PARTS AUTOMOBILE;;1
+Regular;Khorajnanoda, Ahmedabad, Gujarat;Singaperumalkoil, Kanchipuram, Tamil Nadu;1900.0;81;32 FT Single-Axle 7MT - HCV;FILEXCHE19;67779;BEARING BUSH / STABILISER FIXATION TO BR;MUBIN;0
+Regular;Khorajnanoda, Ahmedabad, Gujarat;Maraimalai Nagar, Kanchipuram, Tamil Nadu;1900.0;100;32 FT Multi-Axle 14MT - HCV;FILEXCHE19;67889;SPACER-CRANK SHAFT;HASIM ALI ;0
+Regular;Mugabala, Bangalore Rural, Karnataka;Bangalore International Airport, Bangalore, Karnataka;40.0;3;40 FT 3XL Trailer 35MT;LTLEXMUM40;55556;EMPTY BIN;;0
+Regular;Manali, Tiruvallur, Tamil Nadu;Rayapudupakkam, Villupuram, Tamil Nadu;177.0;16;40 FT 3XL Trailer 35MT;LTLEXMUM40;60901;GRS STARTER;;0
+Regular;LUCAS TVS LTD-AMBATTUR,CHENNAI,TAMIL NADU;LUCAS TVS LTD-PONDY,PONDY,PONDICHERRY;170.0;100;;LUTGCCHE06;SRTEXKOR96;AUTO PARTS;VASUDEVAN;1
+Regular;Shive, Pune, Maharashtra;Sirohi, Jaipur, Rajasthan;1178.0;21;32 FT Single-Axle 7MT - HCV;ERCEXPUNTG;67871;AUTO PARTS;ASHOK KUMAR;0
+Regular;Shive, Pune, Maharashtra;Sirohi, Jaipur, Rajasthan;1178.0;21;32 FT Single-Axle 7MT - HCV;ERCEXPUNTG;75567;EMPTY SPOOL;PRAMOD KUMAR;0
+Regular;Okhla Industrial Estate, South Delhi, Delhi;Chandanhoola, South West Delhi, Delhi;25.0;2;40 FT 3XL Trailer 35MT;LTLEXMUM40;64093;REGR&BR.BOX & RECTIFIER ASSY;;0
+Regular;Kollur, Medak, Telangana;Topgonda, Medak, Telangana;65.0;6;40 FT 3XL Trailer 35MT;LTLEXMUM40;70489;SIA120 M&M MUSTANG STATORCORE;;0
+Regular;Shive, Pune, Maharashtra;Sirohi, Jaipur, Rajasthan;1178.0;21;32 FT Single-Axle 7MT - HCV;ERCEXPUNTG;67871;HUB STG PIVOT;RAJKUMAR SIDHU;0
+Regular;Durgapur DSP SB Bureau, Bardhaman, West Bengal;Dumerjore, Sundergarh, Odisha;427.0;33;40 FT Flat Bed Multi-Axle 27MT - Trailer;LTLEXMUM40;78384;GRS STARTER;OM PRAKASH GIRI;1
+Regular;Jamalpur, Gurgaon, Haryana;Khorajnanoda, Ahmedabad, Gujarat;1000.0;78;32 FT Multi-Axle 14MT - HCV;FILEXCHE19;67779;AUTO PARTS;AKRAM KHAN;1
+Regular;Baghthala, Rewari, Haryana;Khorajnanoda, Ahmedabad, Gujarat;870.0;99;32 FT Multi-Axle 14MT - HCV;FILEXCHE19;67779;ENGINE;SAJID;1
+Regular;Irungattukottai, Kanchipuram, Tamil Nadu;Mathura Road Faridabad, Faridabad, Haryana;1733.008324634099;38;32 FT Multi-Axle 14MT - HCV;WENEXBAN18;67779;BRUSH PLATE;JAMSHED;0
+Regular;Thaikkattukara, Ernakulam, Kerala;Perumanur, Ernakulam, Kerala;25.0;2;40 FT 3XL Trailer 35MT;LTLEXMUM40;67603;CVR ASY WHL;;0
+Regular;Atali, Faridabad, Haryana;Air Force, Gurgaon, Haryana;56.0;5;40 FT 3XL Trailer 35MT;LTLEXMUM40;66261;NEEDLE BEARING;;0
+Regular;Ramte Ram Road, Ghaziabad, Uttar Pradesh;Sanpla Khatri, Saharanpur, Uttar Pradesh;160.0;15;40 FT 3XL Trailer 35MT;LTLEXMUM40;66395;M70 STARTER MOTOR 12V 0.9KW;;0
+Regular;Gopanapalli, Krishnagiri, Tamil Nadu;Onnalvadi, Krishnagiri, Tamil Nadu;215.0;100;Tata 407 Open 2MT - Mini-LCV;TMCGCCHE05;68004;AUTO PARTS;MURUGAN;1
+Market;ASHOK LEYLAND ENNORE,CHENNAI,TAMIL NADU;ASHOK LEYLAND PLANT 2-HOSUR,HOSUR,KARNATAKA;310.0;100;;ALLEXCHE45;VRLEXENN11;BOLT-STALL.;;1
+Regular;Perukkaranai, Kanchipuram, Tamil Nadu;Shive, Pune, Maharashtra;1199.0;100;32 FT Multi-Axle 14MT - HCV;BILGCCHE02;67889;LUCAR PLADE;MOHD WASID KHAN;0
+Regular;Sedarapet, India;Nadia, West Bengal, India;1521.927469502563;4;24 / 26 FT Taurus Open 21MT - HCV;LTLEXMUM40;999;W/S ASY RR DR OPG LH;;1
+Regular;DAIMLER INDIA COMMERCIAL VEHICLES,KANCHIPURAM,TAMIL NADU;DAIMLER INDIA COMMERCIAL VEHICLES,KANCHIPURAM,TAMIL NADU;585.0;100;;DMREXCHEUX;ARVEXNAM09;AUTO PARTS;GOPI;1
+Regular;Jamalpur, Gurgaon, Haryana;Khorajnanoda, Ahmedabad, Gujarat;1000.0;99;32 FT Multi-Axle 14MT - HCV;FILEXCHE19;67726;M8X40 SET SCREW;AARIF KHAN;1
+Regular;Khorajnanoda, Ahmedabad, Gujarat;Pondur, Kanchipuram, Tamil Nadu;1480.0;100;32 FT Multi-Axle 14MT - HCV;FILEXCHE19;76550;AUTO PARTS;JAHIR AEHMAD;0
+Regular;Tunglam, Visakhapatnam, Andhra Pradesh;Rambilli, Visakhapatnam, Andhra Pradesh;60.0;6;40 FT 3XL Trailer 35MT;LTLEXMUM40;58430;FLANGE GASKET / SQUARE;;1
+Regular;Kalamboli Node, Raigarh, Maharashtra;Uran, Raigarh, Maharashtra;25.0;2;24 / 26 FT Taurus Open 21MT - HCV;LTLEXMUM40;69498;GRS STARTER;;0
+Regular;Ramamurthy Nagar, Bangalore, Karnataka;Bangalore International Airport, Bangalore, Karnataka;31.0;3;40 FT 3XL Trailer 35MT;LTLEXMUM40;55556;CONSTANT VELOCITY UNIT / 1./2.GANG;;1
+Regular;Dr Deshmukh Marg, Mumbai, Maharashtra;Kapodra, Bharuch, Gujarat;360.15;34;40 FT Flat Bed Multi-Axle 27MT - Trailer;LTLEXMUM40;55471;M70 STARTER MOTOR 12V 0.9KW;;0
+Market;TVS MOTOR COMPANY-HOSUR,Hosur,TAMIL NADU;TVSLSL HUB (CHAKAN),PUNE,MAHARASHTRA;970.0;100;;TMCGCCHE05;SSTEXICI06;INNER SYNCHRONIZER RING / 3. GANG;;1
+Regular;Shive, Pune, Maharashtra;Sirohi, Jaipur, Rajasthan;1178.0;21;32 FT Single-Axle 7MT - HCV;ERCEXPUNTG;67871;SOLENOID ASSY;HARI RAM;0
+Regular;Sedarapet, India;Redhills, Chennai, Tamil Nadu, India;141.3164946163003;28;24 | 26 FT Taurus Open 21MT - HCV;LTLEXMUM40;999;A114 Alternator(New Versa);;1
+Regular;Okhla Industrial Estate, South Delhi, Delhi;Pragati Maidan Camp, Central Delhi, Delhi;25.0;2;40 FT 3XL Trailer 35MT;LTLEXMUM40;65159;A114 Alternator(New Versa);;0
+Regular;Mugabala, Bangalore Rural, Karnataka;Anekal, Bangalore, Karnataka;49.0;1;40 FT 3XL Trailer 35MT;LTLEXMUM40;55556;2.75-17 TUBE;;0
+Regular;Sedarapet, India;Vadamadurai, Tamil Nadu, India;249.5964776099329;23;24 / 26 FT Taurus Open 21MT - HCV;LTLEXMUM40;999;SPARE PARTS AUTOMOBILE;;1
+Regular;Mugabala, Bangalore Rural, Karnataka;Bangalore International Airport, Bangalore, Karnataka;40.0;1;40 FT 3XL Trailer 35MT;LTLEXMUM40;55559;Caliper Sub Assembly;;0
+Regular;WABCO INDIA LTD-AMBATTUR,CHENNAI,TAMIL NADU;WABCO INDIA LTD,HOSUR,TAMIL NADU;325.0;100;;WABGCCHE17;BALEXAMB18;AUTO PARTS;bala;1
+Regular;Shertha, Gandhinagar, Gujarat;Argama, Bharuch, Gujarat;210.0;20;40 FT 3XL Trailer 35MT;LTLEXMUM40;66198;Empty trays;;0
+Regular;Narangi, Kamrup, Assam;Barpeta, Barpeta, Assam;113.0;10;40 FT 3XL Trailer 35MT;LTLEXMUM40;58152;AUTO PARTS;Mollahan Pandey;0
+Regular;Kollur, Medak, Telangana;Lakdaram, Medak, Telangana;70.0;13;40 FT Flat Bed Multi-Axle 27MT - Trailer;LTLEXMUM40;58931;T3ABA-BIN;;1
+Regular;Shive, Pune, Maharashtra;Sirohi, Jaipur, Rajasthan;1175.0;100;32 FT Single-Axle 7MT - HCV;ERCEXPUNTG;76249;Empty CB;MANDEEP SINGH;0
+Regular;Jamalpur, Gurgaon, Haryana;Singaperumalkoil, Kanchipuram, Tamil Nadu;2425.0;100;32 FT Multi-Axle 14MT - HCV;FILEXCHE19;68027;EMPTY TRAYS;Mujahid;1
+Regular;Okhla Industrial Estate, South Delhi, Delhi;Pragati Maidan Camp, Central Delhi, Delhi;25.0;2;40 FT Flat Bed Multi-Axle 27MT - Trailer;LTLEXMUM40;64093;PTO CROSS MEMBER;;0
+Regular;Khorajnanoda, Ahmedabad, Gujarat;Singaperumalkoil, Kanchipuram, Tamil Nadu;1900.0;100;32 FT Multi-Axle 14MT - HCV;FILEXCHE19;67786;FL100114;ARUL PRAKASH.M;0
+Regular;Shive, Pune, Maharashtra;Patil., Gurgaon, Haryana;1400.0;100;32 FT Single-Axle 7MT - HCV;ERCEXPUNTG;75446;ZB SUPPORTING TUBE CTR LH;SAHID;0
+Market;DAIMLER INDIA COMMERCIAL VEHICLES,KANCHIPURAM,TAMIL NADU;DAIMLER INDIA COMMERCIAL VEHICLES,KANCHIPURAM,TAMIL NADU;270.0;100;;DMREXCHEUX;ARVEXNAM09;DAY QUARTER TRIM LOWER MOUNTI;;1
+Regular;Jamalpur, Gurgaon, Haryana;Khorajnanoda, Ahmedabad, Gujarat;1000.0;100;32 FT Single-Axle 7MT - HCV;FILEXCHE19;67779;AUTO PARTS;SATYAPAL;0
+Regular;Mugabala, Bangalore Rural, Karnataka;Udaypura, Bangalore Rural, Karnataka;41.9;4;40 FT 3XL Trailer 35MT;LTLEXMUM40;55559;GRS STARTER;;0
+Regular;Pondur, Kanchipuram, Tamil Nadu;Shive, Pune, Maharashtra;1200.0;100;32 FT Multi-Axle 14MT - HCV;DMREXCHEUX;67730;COVER PLATE;AROKKIYA DASS L;0
+Regular;Someswaralayam, West Godavari, Andhra Pradesh;Manuu, Rangareddy, Telangana;508.2;8;24 / 26 FT Taurus Open 21MT - HCV;LTLEXMUM40;62899;ZB BRACKET / 3340S;;0
+Regular;Mugabala, Bangalore Rural, Karnataka;Bangalore International Airport, Bangalore, Karnataka;40.0;1;40 FT 3XL Trailer 35MT;LTLEXMUM40;55556;M70 STARTER MOTOR 12V 0.9KW;;0
+Regular;Naickenpalayam, Coimbatore, Tamil Nadu;Onnalvadi, Krishnagiri, Tamil Nadu;400.0;100;1.5 MT Pickup (Open Body);ALLEXCHE45;67789;ARRANGEMENT 26071613;BHUVANESAN;1
+Regular;Gopanapalli, Krishnagiri, Tamil Nadu;Mookandapalli, Krishnagiri, Tamil Nadu;215.0;100;Tata 407 Open 2MT - Mini-LCV;CSYEXCHEM2;68004;Ball bearing;MURUGAN;1
+Regular;Anekal, Bangalore, Karnataka;Jamalpur, Gurgaon, Haryana;2230.0;89;22 FT Taurus Open 16MT - HCV;OTIEXHOSJM;999;PLATE WASHER (GUN CLIP)-STALL;IMRAN;0
+Regular;Bokaro Steel City, Bokaro, Jharkhand;HEC Expert Hostel, Ranchi, Jharkhand;148.0;67;40 FT Flat Bed Multi-Axle 27MT - Trailer;LTLEXMUM40;57828;Ball bearing;mohammad irfan;1
+Regular;Kollur, Medak, Telangana;Manuu, Rangareddy, Telangana;27.0;2;40 FT 3XL Trailer 35MT;LTLEXMUM40;67827;AUTO PARTS;A C SEKHARA RAO;0
+Regular;Sonai, Kolkata, West Bengal;Dumerjore, Sundergarh, Odisha;511.0;1;40 FT Flat Bed Multi-Axle 27MT - Trailer;LTLEXMUM40;58152;ALTERNATOR;;1
+Regular;DAIMLER INDIA COMMERCIAL VEHICLES,KANCHIPURAM,TAMIL NADU;DAIMLER INDIA COMMERCIAL VEHICLES,KANCHIPURAM,TAMIL NADU;3.0;100;;DMREXCHEUX;RAGEXKAN82;SPRING SHACKLE PIN;MANIKANDAN;1
+Regular;Gopavarapugudem, Krishna, Andhra Pradesh;Apsp Colony, Guntur, Andhra Pradesh;72.0;6;40 FT 3XL Trailer 35MT;LTLEXMUM40;60169;WIPER MOTOR ASSY - MOD ACE;;0
+Regular;Jagadambigainagar, Tiruvallur, Tamil Nadu;Shive, Pune, Maharashtra;1199.0;71;32 FT Multi-Axle 14MT - HCV;LUTGCCHE06;67829;solenoid fixing screw;DILLIBABU A;1
+Regular;Tehkhand, South Delhi, Delhi;Dargah Sharif, South Delhi, Delhi;25.0;2;40 FT 3XL Trailer 35MT;LTLEXMUM40;64093;SOLENOID SWITCH - 39S;Kamlesh Yadav;0
+Regular;Gopanapalli, Krishnagiri, Tamil Nadu;Onnalvadi, Krishnagiri, Tamil Nadu;215.0;100;1.5 MT Vehicle (Closed Body);TMCGCCHE05;68006;AUTO PARTS;MALLESH;1
+Regular;Mugabala, Bangalore Rural, Karnataka;Sahakaranagar P.O, Bangalore, Karnataka;31.6;12;40 FT 3XL Trailer 35MT;LTLEXMUM40;55559;LU GEARSHIFT LEVER COMPL / MDT/LHD;;0
+Regular;Mugabala, Bangalore Rural, Karnataka;Bangalore International Airport, Bangalore, Karnataka;40.0;3;40 FT 3XL Trailer 35MT;LTLEXMUM40;55556;STATOR ASSEMBLY-AVTEC;;0
+Regular;Singaperumalkoil, Kanchipuram, Tamil Nadu;Jamalpur, Gurgaon, Haryana;2240.0;100;32 FT Multi-Axle 14MT - HCV;FILEXCHE19;67779;AUTO PARTS;SOAKAT;1
+Regular;Mugabala, Bangalore Rural, Karnataka;Anekal, Bangalore, Karnataka;49.0;4;40 FT 3XL Trailer 35MT;LTLEXMUM40;55559;AUTO PARTS;Vipin Kumar Tiwari;0
+Regular;Irungattukottai, Kanchipuram, Tamil Nadu;Mathura Road Faridabad, Faridabad, Haryana;2205.0;37;32 FT Multi-Axle 14MT - HCV;WENEXBAN18;67779;EMPTY TRAY;NASEEM;0
+Regular;Shive, Pune, Maharashtra;Guruvoyal, Tiruvallur, Tamil Nadu;1275.0;88;32 FT Single-Axle 7MT - HCV;ERCEXPUNTG;75446;LU CLUTCH PRESSURE PLATE / D395;BALAKRISHNA KHATAGE;0
+Regular;Gopavarapugudem, Krishna, Andhra Pradesh;Someswaralayam, West Godavari, Andhra Pradesh;117.0;12;22 FT Taurus Open 16MT - HCV;LTLEXMUM40;55471;AUTO PARTS;;1
+Regular;DAIMLER INDIA COMMERCIAL VEHICLES,KANCHIPURAM,TAMIL NADU;DAIMLER INDIA COMMERCIAL VEHICLES,KANCHIPURAM,TAMIL NADU;20.0;100;;DMREXCHEUX;NSAEXNAMDZ;SOLENOID ASSY-SM76 BARE;SUDHAKAR;1
+Regular;Jamalpur, Gurgaon, Haryana;Singaperumalkoil, Kanchipuram, Tamil Nadu;2425.0;79;32 FT Multi-Axle 14MT - HCV;FILEXCHE19;999;EMPTY BIN;Jumman Jalil Khan;0
+Regular;Perukkaranai, Kanchipuram, Tamil Nadu;Shive, Pune, Maharashtra;1199.0;100;32 FT Multi-Axle 14MT - HCV;BILGCCHE02;68045;SOLENOID SWITCH;B FAROZE BASHA;0
+Regular;Khorajnanoda, Ahmedabad, Gujarat;Maraimalai Nagar, Kanchipuram, Tamil Nadu;1900.0;100;32 FT Multi-Axle 14MT - HCV;FILEXCHE19;76550;AUTO PARTS;IFRAN KHAN;0
+Regular;Jamalpur, Gurgaon, Haryana;Singaperumalkoil, Kanchipuram, Tamil Nadu;2425.0;100;32 FT Multi-Axle 14MT - HCV;FILEXCHE19;67779;XXXXXX;AARIF;0
+Regular;Mugabala, Bangalore Rural, Karnataka;Bangalore International Airport, Bangalore, Karnataka;40.0;4;40 FT 3XL Trailer 35MT;LTLEXMUM40;55559;ZB PROPELLER SHAFT FR W BEARING;;1
+Regular;Mugabala, Bangalore Rural, Karnataka;Anekal, Bangalore, Karnataka;49.0;46;40 FT 3XL Trailer 35MT;LTLEXMUM40;55556;M70 STARTER MOTOR 12V 0.9KW;;1
+Regular;Bhubaneswar Court, Khordha, Odisha;Bankati, Mayurbhanj, Odisha;273.52;22;40 FT Flat Bed Multi-Axle 27MT - Trailer;LTLEXMUM40;55471;Poly films;;1
+Regular;Shive, Pune, Maharashtra;Pondur, Kanchipuram, Tamil Nadu;1290.0;100;32 FT Multi-Axle 14MT - HCV;DMREXCHEUX;67889;CARBON BRUSH;Suneel Kumar;1
+Regular;DAIMLER INDIA COMMERCIAL VEHICLES,KANCHIPURAM,TAMIL NADU;DAIMLER INDIA COMMERCIAL VEHICLES,KANCHIPURAM,TAMIL NADU;103.0;100;;DMREXCHEUX;VJLEXSHE09;PRESSURE PIN   OUTER;MURUGAN;1
+Regular;Okhla Industrial Estate, South Delhi, Delhi;Pragati Maidan Camp, Central Delhi, Delhi;25.0;2;40 FT 3XL Trailer 35MT;LTLEXMUM40;64093;AUTO PARTS;;0
+Regular;Kalamboli Node, Raigarh, Maharashtra;Magthane, Mumbai, Maharashtra;35.0;3;40 FT 3XL Trailer 35MT;LTLEXMUM40;63769;PALLET;;0
+Regular;Khorajnanoda, Ahmedabad, Gujarat;Maraimalai Nagar, Kanchipuram, Tamil Nadu;1900.0;100;32 FT Single-Axle 7MT - HCV;FILEXCHE19;67779;5SW60WIPERMOTOR 307T AL NISSAN;MUBARIK KHAN;0
+Regular;Gopavarapugudem, Krishna, Andhra Pradesh;Apsp Colony, Guntur, Andhra Pradesh;72.0;6;40 FT 3XL Trailer 35MT;LTLEXMUM40;60169;AUTO PARTS;;0
+Regular;Pozhal, Tiruvallur, Tamil Nadu;Onnalvadi, Krishnagiri, Tamil Nadu;535.0;76;1 MT Tata Ace (Closed Body);ALLEXCHE45;73073;BOLT M14X1.5X50-STALL.;Manikandan;0
+Regular;Changodar, Ahmedabad, Gujarat;Bharuch, Bharuch, Gujarat;107.0;23;40 FT Flat Bed Multi-Axle 27MT - Trailer;LTLEXMUM40;57554;LU CAMERA / REVERSE CAMERA;;0
+Regular;Sonai, Kolkata, West Bengal;Rashbehari Market, North Dinajpur, West Bengal;401.0;40;24 / 26 FT Taurus Open 21MT - HCV;LTLEXMUM40;55471;SPARE PARTS AUTOMOBILE;;1
+Regular;Kanchipuram, Tamil Nadu, India;Sriperumbudur, Tamil Nadu, India;29.60666402614335;16;24 | 26 FT Taurus Open 21MT - HCV;LTLEXMUM40;999;LU VIBRATION DAMPER / REAR/1617R;;1
+Regular;LUCAS TVS LTD-AMBATTUR,CHENNAI,TAMIL NADU;LUCAS TVS LTD-PONDY,PONDY,PONDICHERRY;170.0;100;;LUTGCCHE06;SRTEXKOR96;AUTO PARTS;KESAVEN;1

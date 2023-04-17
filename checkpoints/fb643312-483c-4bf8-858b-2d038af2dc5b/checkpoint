@@ -1,0 +1,5 @@
+model_checkpoint_path: "/tmp/fb643312-483c-4bf8-858b-2d038af2dc5b/model.ckpt-998"
+all_model_checkpoint_paths: "/tmp/fb643312-483c-4bf8-858b-2d038af2dc5b/model.ckpt-499"
+all_model_checkpoint_paths: "/tmp/fb643312-483c-4bf8-858b-2d038af2dc5b/model.ckpt-998"
+all_model_checkpoint_timestamps: 0.0
+all_model_checkpoint_timestamps: 0.0
