@@ -228,6 +228,24 @@ class BoostedTreesTrial(EstimatorTrial):
 
         return dftrain, dfeval, y_train, y_eval, feature_columns
 ```
+
+### startup-hook.yaml
+This file defines code that needs to run before the model compiles
+```code
+pip install pandas
+# Python lybrary to read/write excel files
+pip install openpyxl
+# Seaborn is a Python data visualization library based on matplotlib
+pip install seaborn
+# Library Exploratory Data Analysis
+pip install pandas-profiling
+# SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the output of any machine learning model
+pip install shap
+pip install facets-overview
+pip install geopy
+```
+
+## Version 1
 ### adaptive.yaml
 The file adaptive.yaml was used to define the configuration for hyperparameter search
 ```code
@@ -272,51 +290,6 @@ searcher:
   max_length:
     batches: 500
   max_trials: 100
-entrypoint: model_def:BoostedTreesTrial
-scheduling_unit: 1
-environment:
-  image: "determinedai/environments:py-3.8-pytorch-1.12-tf-2.8-cpu-0.21.0"
-```
-
-### startup-hook.yaml
-This file defines code that needs to run before the model compiles
-```code
-pip install pandas
-# Python lybrary to read/write excel files
-pip install openpyxl
-# Seaborn is a Python data visualization library based on matplotlib
-pip install seaborn
-# Library Exploratory Data Analysis
-pip install pandas-profiling
-# SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the output of any machine learning model
-pip install shap
-pip install facets-overview
-pip install geopy
-```
-
-## Version 1
-### const.yaml
-The file const.yaml was used to define the configuration for running the model
-```code
-name: boosted_trees_estimator_const_truck_v1
-data:
-  truck_dataset:
-    train: "tensordataTrain.csv"
-    eval: "tensordataTest.csv"
-hyperparameters:
-  n_trees: 200
-  max_depth: 10
-  learning_rate: 0.01
-  l1_regularization: 0.01
-  l2_regularization: 0.01
-  min_node_weight: 0.1
-  global_batch_size: 8
-searcher:
-  name: single
-  metric: accuracy
-  max_length:
-    batches: 100
-  smaller_is_better: false
 entrypoint: model_def:BoostedTreesTrial
 scheduling_unit: 1
 environment:
